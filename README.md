@@ -6,7 +6,7 @@ To deploy Spark application :
 
 git clone https://github.com/kannandreams/spark-streaming-demo.git
 cd spark-streaming-demo
-sbt assembly run
+sbt assembly
 
 =============================
 
