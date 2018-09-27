@@ -1,0 +1,7 @@
+Dockerize the whole tech stack
+Kibana Visualization in real time
+Write them to database with different tables appending logic
+Kafka integration to use realible reciever . 
+Statistics on how much the events processed , etc
+Memory optimization if any 
+Better documentation and steps to contributor
